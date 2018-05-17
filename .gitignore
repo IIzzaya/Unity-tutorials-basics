@@ -1,0 +1,11 @@
+*.vs
+/*/Library
+/*/obj
+/*/Temp
+*.csproj
+*.sln
+*.userprefs
+*.DS_Store
+*.pyc
+
+.vscode
